@@ -11,7 +11,10 @@ The `Viking DragonFly Mk2.acf` contains the entirety of the aircraft, but it is 
 The [.gitignore](https://github.com/inholland-compolab/InhollandElectricDragonfly-xplane12/blob/master/.gitignore) file determines what files are synced. Now only the text-based files should be synced when cloning this repo to your personal pc.
 
 
-## Experimenting
-The `master` branch is meant as a complete release. If you want to experiment on your own, create a fork with your own branch. That way you can work on a seperate version which can later be merged.
+### Branch Rules
+The `master` branch is meant as a complete release. This model has been tested and is stable (enough) for flight. This branch will have no direct pushed.
+
+The `Dev` branch is the working branch where the small changes accumulate. Developers branch off `dev`, test and merge back.
+
 
 
