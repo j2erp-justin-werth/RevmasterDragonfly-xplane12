@@ -8,6 +8,10 @@ Why X-Plane? X-Plane offers the most realistic approach when it comes to simulat
 ## Repo Info
 
 The `Viking DragonFly Mk2.acf` contains the entirety of the aircraft, but it is in essence a text file. The assets themselves are saved on SharePoint.
+The [.gitignore](https://github.com/inholland-compolab/InhollandElectricDragonfly-xplane12/blob/master/.gitignore) file determines what files are synced. Now only the text-based files should be synced when cloning this repo to your personal pc.
 
+
+## Experimenting
+The `master` branch is meant as a complete release. If you want to experiment on your own, create a fork with your own branch. That way you can work on a seperate version which can later be merged.
 
 
