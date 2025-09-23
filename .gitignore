@@ -1,0 +1,24 @@
+# X-Plane asset folders (ignored, stored on SharePoint instead)
+sounds/
+cockpit/
+liveries/
+objects/
+
+# Ignore all PNGs
+*.png
+
+# Ignore all obj files
+*.obj
+
+# Ignore the active ACF file
+*.acf~
+
+# If you need to keep specific PNGs, you can "unignore" them like this:
+# !docs/logo.png
+# !textures/thumbnail.png
+
+# Common OS / IDE clutter
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
